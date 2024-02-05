@@ -1,2 +1,2 @@
 # Cartorioebac
-projeto do curdo de ti da EBAC
+projeto do curso de ti da EBAC
