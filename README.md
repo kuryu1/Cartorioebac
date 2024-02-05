@@ -1,3 +1,3 @@
 # Cartorioebac
-#projeto do curso de ti da EBAC
+projeto do curso de ti da EBAC
 
